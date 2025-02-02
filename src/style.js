@@ -771,6 +771,14 @@ INTRO
   font-size: 3rem;
 }
 
+@media(max-width:767px){
+  .intro .intro-title {
+  color: #fff;
+  font-weight: 600;
+  font-size: 2rem;
+}
+}
+
 .intro .intro-subtitle {
   font-size: 1.5rem;
   font-weight: 300;
