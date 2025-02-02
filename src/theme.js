@@ -1,0 +1,38 @@
+export const lightTheme = {
+    body: '#f5f5f5',
+    container: '#fff',
+    textDark: '#1e1e1e',
+    textLight: '#4e4e4e',
+    primaryBlueColor: '#0078ff',
+    navLinkHover: 'rgb(78,78,78)',
+    shadowColor: '#9a9a9a',
+    contactOverlay: '#0078ff',
+    starsGrad1: '#1B2735',
+    starsGrad2: '#090A0F',
+    navLink: '#0078ff',
+    navHamburgerColor: '#1B1B1B',
+    projectTechOpacity: '0.7',
+    formTextField: '#fff',
+    formTextColor: '#495057',
+    formTextBorder: '#ced4da',
+}
+
+export const darkTheme = {
+    body: '#121212',
+    container: '#282828',
+    textDark: '#fff',
+    textLight: '#fff',
+    primaryBlueColor: '#0078ff',
+    navLinkHover: '#0078ff',
+    shadowColor: 'rgba(24,24,24,1)',
+    contactOverlay: '#121212',
+    starsGrad1: '#121212',
+    starsGrad2: '#121212',
+    navLink: '#fff',
+    navHamburgerColor: '#fff',
+    projectTechOpacity: '1',
+    formTextField: '#404040',
+    formTextColor: '#fff',
+    formTextBorder: 'transparent',
+
+}
