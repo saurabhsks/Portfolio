@@ -17,7 +17,7 @@ class Intro extends React.Component{
   
     render(){
       
-      let introText = "Hello, I am Saurabh Kumar Singh";
+      let introText = "Hello, I am Saurabh";
       let introTextArr = [];
       for(let i=0;i<introText.length;i++){
         introTextArr.push(introText[i]);
