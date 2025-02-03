@@ -20,7 +20,7 @@ class Contact extends React.Component{
                                 </h5>
                             </div>
                             <div>
-                                <form action="https://getform.io/f/0b5524c2-f754-468e-b761-47d71f460032" method="POST" className="contactForm">
+                                <form action="https://getform.io/f/aollxglb" method="POST" className="contactForm">
                                 <div id="sendmessage">Your message has been sent. Thank you!</div>
                                 <div id="errormessage"></div>
                                 <div className="row">
